@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\nick\documents\visual studio 2013\projects\api-2\api-2\source.cpp(51): warning C4805: '!=' : unsafe mix of type 'BOOL' and type 'bool' in operation
+  API-2.vcxproj -> C:\Users\Nick\documents\visual studio 2013\Projects\API-2\Debug\API-2.exe
